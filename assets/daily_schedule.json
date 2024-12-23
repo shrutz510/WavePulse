@@ -1,0 +1,6527 @@
+[
+    {
+        "url": "https://ice9.securenetsystems.net/WACV",
+        "radio_name": "WACV",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AL"
+    },
+    {
+        "url": "https://us9.maindigitalstream.com/ssl/wavhfm",
+        "radio_name": "WAVH",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AL"
+    },
+    {
+        "url": "https://ice42.securenetsystems.net/WGSV",
+        "radio_name": "WGSV",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AL"
+    },
+    {
+        "url": "https://ic2.christiannetcast.com/faith-radio",
+        "radio_name": "WLBF",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AL"
+    },
+    {
+        "url": "https://edge.mixlr.com/channel/ritml",
+        "radio_name": "WQSI",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AL"
+    },
+    {
+        "url": "http://radiobash.net:8012/stream",
+        "radio_name": "WTLS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AL"
+    },
+    {
+        "url": "http://ic1.nwrnetwork.com/kiam",
+        "radio_name": "KAGV",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AK"
+    },
+    {
+        "url": "http://sacredheartradio.miriamtech.com:8000/hidden",
+        "radio_name": "KBKO",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AK"
+    },
+    {
+        "url": "https://shout2.brnstream.com/proxy/intruth?mp=/stream",
+        "radio_name": "KDFJ",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AK"
+    },
+    {
+        "url": "http://ice6.securenetsystems.net/KFAR",
+        "radio_name": "KFAR",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AK"
+    },
+    {
+        "url": "https://kqqn.streamguys1.com/live",
+        "radio_name": "KFNP",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AK"
+    },
+    {
+        "url": "http://ic2.christiannetcast.com/kykd-fm",
+        "radio_name": "KGSM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AK"
+    },
+    {
+        "url": "https://ice8.securenetsystems.net/KSRM",
+        "radio_name": "KSRM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AK"
+    },
+    {
+        "url": "http://ic2.nwrnetwork.com/kvnt-am",
+        "radio_name": "KVNT",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AK"
+    },
+    {
+        "url": "https://14923.live.streamtheworld.com/KAWCFM_SC",
+        "radio_name": "KAWC",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AZ"
+    },
+    {
+        "url": "https://ice.wbcengineering.com:8122/stream",
+        "radio_name": "KBTK",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AZ"
+    },
+    {
+        "url": "https://ice41.securenetsystems.net/KVWM",
+        "radio_name": "KDJI",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AZ"
+    },
+    {
+        "url": "http://crystalout.surfernetwork.com:8001/KFNX_MP3",
+        "radio_name": "KFNX",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AZ"
+    },
+    {
+        "url": "http://stream.amellus.com:8000/KQNA.mp3",
+        "radio_name": "KQNA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AZ"
+    },
+    {
+        "url": "https://ice41.securenetsystems.net/KVOI",
+        "radio_name": "KVOI",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AZ"
+    },
+    {
+        "url": "https://ice41.securenetsystems.net/KVWM",
+        "radio_name": "KVWM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AZ"
+    },
+    {
+        "url": "http://www.ophanim.net:8030/stream",
+        "radio_name": "KYCA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AZ"
+    },
+    {
+        "url": "https://ice41.securenetsystems.net/KFNN",
+        "radio_name": "KFNN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AZ"
+    },
+    {
+        "url": "https://ais-sa2.cdnstream1.com/1690_64",
+        "radio_name": "KARV",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AR"
+    },
+    {
+        "url": "http://ice23.securenetsystems.net/KBEU",
+        "radio_name": "KBEU",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AR"
+    },
+    {
+        "url": "https://ais-sa2.cdnstream1.com/1580_64",
+        "radio_name": "KBTM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AR"
+    },
+    {
+        "url": "https://ice42.securenetsystems.net/EAGLE935",
+        "radio_name": "KOMT",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AR"
+    },
+    {
+        "url": "https://ice6.securenetsystems.net/KJMT",
+        "radio_name": "KRZP",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AR"
+    },
+    {
+        "url": "https://27053.live.streamtheworld.com/KUARFM_SC",
+        "radio_name": "KUAR",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AR"
+    },
+    {
+        "url": "http://ophanim.net:9760/stream",
+        "radio_name": "KURM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "AR"
+    },
+    {
+        "url": "https://crystalout.surfernetwork.com:8001/KAHI-AM_MP3",
+        "radio_name": "KAHI",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CA"
+    },
+    {
+        "url": "https://ice9.securenetsystems.net/KBLA",
+        "radio_name": "KBLA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CA"
+    },
+    {
+        "url": "https://radio4.tikilive.com/stream/47576/",
+        "radio_name": "KCAA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CA"
+    },
+    {
+        "url": "http://apps.kcnr1460.com:8000/kcnr1460.mp3",
+        "radio_name": "KCNR",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CA"
+    },
+    {
+        "url": "https://eurekaradio.streamguys1.com/live",
+        "radio_name": "KINS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CA"
+    },
+    {
+        "url": "https://ice41.securenetsystems.net/KMET",
+        "radio_name": "KMET",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CA"
+    },
+    {
+        "url": "https://das-edge14-live365-dal02.cdnstream.com/a55548",
+        "radio_name": "KMYC",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CA"
+    },
+    {
+        "url": "http://184.105.148.154:8020/komylive",
+        "radio_name": "KOMY",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CA"
+    },
+    {
+        "url": "https://ice10.securenetsystems.net/KPAY1290",
+        "radio_name": "KPAY",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CA"
+    },
+    {
+        "url": "https://kpbs.streamguys1.com/kpbs-aac",
+        "radio_name": "KPBS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CA"
+    },
+    {
+        "url": "https://us9.maindigitalstream.com/ssl/KPODAM",
+        "radio_name": "KPOD",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CA"
+    },
+    {
+        "url": "https://ice6.securenetsystems.net/KPRL",
+        "radio_name": "KPRL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CA"
+    },
+    {
+        "url": "https://ice42.securenetsystems.net/KQMS",
+        "radio_name": "KQMS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CA"
+    },
+    {
+        "url": "https://audio-edge-qse4n.yyz.g.radiomast.io/ed0e53c5-4e25-4423-a940-aa2a029ca931?referer=Website",
+        "radio_name": "KSAC",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CA"
+    },
+    {
+        "url": "http://184.105.148.154:8000/live",
+        "radio_name": "KSCO",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CA"
+    },
+    {
+        "url": "https://www.iheart.com/live/am-590-the-answer-5991/?autoplay=true",
+        "radio_name": "KTIE",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CA"
+    },
+    {
+        "url": "https://www.iheart.com/live/am-1380-the-answer-6016/?autoplay=true",
+        "radio_name": "KTKZ",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CA"
+    },
+    {
+        "url": "https://ice9.securenetsystems.net/KVTA",
+        "radio_name": "KVTA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CA"
+    },
+    {
+        "url": "https://ice42.securenetsystems.net/KYOS",
+        "radio_name": "KYOS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CA"
+    },
+    {
+        "url": "https://audio-edge-w4d68.yul.o.radiomast.io/94f75f4d-f0ae-44f5-8641-c719fd6cd406",
+        "radio_name": "KDGO",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CO"
+    },
+    {
+        "url": "https://n0b.radiojar.com/38vtv55ez38uv?rj-ttl=5&rj-tok=AAABkA6BYZsANP4IUR6ET6-X0A",
+        "radio_name": "KFKA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CO"
+    },
+    {
+        "url": "https://22203.live.streamtheworld.com/KNZZAMAAC_SC",
+        "radio_name": "KGLN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CO"
+    },
+    {
+        "url": "https://ais-sa8.cdnstream1.com/pohqowwp1ku/cnctuw4o2it",
+        "radio_name": "KLZ",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CO"
+    },
+    {
+        "url": "https://ice1.amtstreaming.com:8443/knfoic",
+        "radio_name": "KNFO",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CO"
+    },
+    {
+        "url": "https://ice9.securenetsystems.net:80/1040KPPF",
+        "radio_name": "KPPF",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CO"
+    },
+    {
+        "url": "http://ice6.securenetsystems.net/KRDO",
+        "radio_name": "KRDO",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CO"
+    },
+    {
+        "url": "https://audio-edge-vqwx4.yyz.g.radiomast.io/7594126e-6134-447f-b2d2-8bb2ed2d2d9b",
+        "radio_name": "KVFC",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CO"
+    },
+    {
+        "url": "https://crystalin.surfernetwork.com:8001/WDRC-AM_MP3",
+        "radio_name": "WDRC",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CT"
+    },
+    {
+        "url": "https://22113.live.streamtheworld.com/WFOXFMAAC_SC",
+        "radio_name": "WFOX",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CT"
+    },
+    {
+        "url": "http://64.78.234.165:8000/WGCH",
+        "radio_name": "WGCH",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CT"
+    },
+    {
+        "url": "https://14843.live.streamtheworld.com/WICCAMAAC_SC",
+        "radio_name": "WICC",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CT"
+    },
+    {
+        "url": "https://ice8.securenetsystems.net/WLAD",
+        "radio_name": "WLAD",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CT"
+    },
+    {
+        "url": "https://wshu-iad.streamguys1.com/wshu-news",
+        "radio_name": "WSTC",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "CT"
+    },
+    {
+        "url": "https://ais-sa1.streamon.fm/7865_96k.aac",
+        "radio_name": "WDEL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "DE"
+    },
+    {
+        "url": "http://ice6.securenetsystems.net/WGMD",
+        "radio_name": "WGMD",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "DE"
+    },
+    {
+        "url": "https://22113.live.streamtheworld.com/WDDEFM_SC",
+        "radio_name": "WHMS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "DE"
+    },
+    {
+        "url": "http://ice8.securenetsystems.net/WOTJ",
+        "radio_name": "WIHW",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "DE"
+    },
+    {
+        "url": "https://19013.live.streamtheworld.com/WVCYFMAAC_SC",
+        "radio_name": "WVCW",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "DE"
+    },
+    {
+        "url": "https://24923.live.streamtheworld.com/CSPANRADIOAAC_SC",
+        "radio_name": "WCSP",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "DC"
+    },
+    {
+        "url": "https://26343.live.streamtheworld.com/WFEDAMAAC_SC",
+        "radio_name": "WFED",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "DC"
+    },
+    {
+        "url": "http://www.wpfwfm.org:8000/wpfw_128",
+        "radio_name": "WPFM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "DC"
+    },
+    {
+        "url": "https://24083.live.streamtheworld.com/WTOPFMAAC_SC",
+        "radio_name": "WTOP",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "DC"
+    },
+    {
+        "url": "https://wpnn.fastserv.com/stream64",
+        "radio_name": "PRNN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "FL"
+    },
+    {
+        "url": "https://ice41.securenetsystems.net/WBOB",
+        "radio_name": "WBOB",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "FL"
+    },
+    {
+        "url": "https://ad-oom-cmg.streamguys1.com/orl1073/orl1073-sgplayer-aac",
+        "radio_name": "WDBO",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "FL"
+    },
+    {
+        "url": "https://home.besedic.com/live",
+        "radio_name": "WDCF",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "FL"
+    },
+    {
+        "url": "http://ice41.securenetsystems.net/WELE",
+        "radio_name": "WELE",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "FL"
+    },
+    {
+        "url": "https://mp3stream.wfsu.org:8443/889hi",
+        "radio_name": "WFSU",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "FL"
+    },
+    {
+        "url": "https://18163.live.streamtheworld.com/WFSXFMAAC_SC",
+        "radio_name": "WFSX",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "FL"
+    },
+    {
+        "url": "https://24413.live.streamtheworld.com/WFTLAMAAC_SC",
+        "radio_name": "WFTL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "FL"
+    },
+    {
+        "url": "https://14843.live.streamtheworld.com/WGUF_FMAAC_SC",
+        "radio_name": "WGUF",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "FL"
+    },
+    {
+        "url": "https://ice41.securenetsystems.net/WHBO",
+        "radio_name": "WHBO",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "FL"
+    },
+    {
+        "url": "https://ice66.securenetsystems.net/WPIK",
+        "radio_name": "WKEZ",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "FL"
+    },
+    {
+        "url": "https://27033.live.streamtheworld.com/WNDBAMAAC_SC",
+        "radio_name": "WNDB",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "FL"
+    },
+    {
+        "url": "http://newsradio1620.streamguys.org/wnrp",
+        "radio_name": "WNRP",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "FL"
+    },
+    {
+        "url": "https://15123.live.streamtheworld.com/WNZFAMAAC.aac",
+        "radio_name": "WNZF",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "FL"
+    },
+    {
+        "url": "http://ice66.securenetsystems.net/WPIK",
+        "radio_name": "WPIK",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "FL"
+    },
+    {
+        "url": "http://us2.maindigitalstream.com:7309/stream",
+        "radio_name": "WPSL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "FL"
+    },
+    {
+        "url": "https://us2.maindigitalstream.com/ssl/WSTU",
+        "radio_name": "WSTU",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "FL"
+    },
+    {
+        "url": "https://ice41.securenetsystems.net/WWBA",
+        "radio_name": "WWBA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "FL"
+    },
+    {
+        "url": "http://ice5.securenetsystems.net/WWPR",
+        "radio_name": "WWPR",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "FL"
+    },
+    {
+        "url": "http://ice42.securenetsystems.net/WWTK",
+        "radio_name": "WWTK",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "FL"
+    },
+    {
+        "url": "https://ice3.securenetsystems.net/WXJB",
+        "radio_name": "WXJB",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "FL"
+    },
+    {
+        "url": "http://ice9.securenetsystems.net/WYOO",
+        "radio_name": "WYOO",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "FL"
+    },
+    {
+        "url": "https://ice41.securenetsystems.net/WCHM",
+        "radio_name": "WCHM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "GA"
+    },
+    {
+        "url": "https://server10.reliastream.com/proxy/rphill01?mp=/stream;",
+        "radio_name": "WDDQ",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "GA"
+    },
+    {
+        "url": "https://wdjyfm.out.airtime.pro:8000/wdjyfm_a",
+        "radio_name": "WDJY",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "GA"
+    },
+    {
+        "url": "https://ice42.securenetsystems.net/WDUN",
+        "radio_name": "WDUN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "GA"
+    },
+    {
+        "url": "https://15263.live.streamtheworld.com/WFOMAM_SC",
+        "radio_name": "WFOM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "GA"
+    },
+    {
+        "url": "https://26343.live.streamtheworld.com/WGACAMAAC_SC",
+        "radio_name": "WGAC",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "GA"
+    },
+    {
+        "url": "https://ice7.securenetsystems.net/WJRB",
+        "radio_name": "WJRB",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "GA"
+    },
+    {
+        "url": "https://ice41.securenetsystems.net/WKWN",
+        "radio_name": "WKWN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "GA"
+    },
+    {
+        "url": "https://ice64.securenetsystems.net/WLAQ",
+        "radio_name": "WLAQ",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "GA"
+    },
+    {
+        "url": "https://ice42.securenetsystems.net/WLBB",
+        "radio_name": "WLBB",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "GA"
+    },
+    {
+        "url": "https://us2.maindigitalstream.com/ssl/WMLB",
+        "radio_name": "WMLB",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "GA"
+    },
+    {
+        "url": "https://ais-sa1.streamon.fm/7083_24k.aac",
+        "radio_name": "WRGA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "GA"
+    },
+    {
+        "url": "https://ice9.securenetsystems.net/WRWH",
+        "radio_name": "WRWH",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "GA"
+    },
+    {
+        "url": "https://ad-oom-cmg.streamguys1.com/atl750/atl750-tunein.aac",
+        "radio_name": "WSBB",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "GA"
+    },
+    {
+        "url": "https://server10.reliastream.com/proxy/rphill01?mp=/stream;",
+        "radio_name": "WSFB",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "GA"
+    },
+    {
+        "url": "https://ice9.securenetsystems.net/WVGA",
+        "radio_name": "WVGA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "GA"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/WVOP",
+        "radio_name": "WVOP",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "GA"
+    },
+    {
+        "url": "https://khpr-ice.streamguys1.com/khpr2",
+        "radio_name": "KANO",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "HI"
+    },
+    {
+        "url": "http://ice7.securenetsystems.net/CSNAAC",
+        "radio_name": "KHJC",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "HI"
+    },
+    {
+        "url": "https://das-edge09-live365-dal03.cdnstream.com/a95022",
+        "radio_name": "KIHL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "HI"
+    },
+    {
+        "url": "https://s8.phx.icastcenter.com:9000/stream",
+        "radio_name": "KKCR",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "HI"
+    },
+    {
+        "url": "https://ice8.securenetsystems.net/KAOX",
+        "radio_name": "KAOX",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "ID"
+    },
+    {
+        "url": "https://18813.live.streamtheworld.com/KBOIAMAAC_SC",
+        "radio_name": "KBOI",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "ID"
+    },
+    {
+        "url": "http://ice24.securenetsystems.net/KIDAM",
+        "radio_name": "KIDG",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "ID"
+    },
+    {
+        "url": "https://ice24.securenetsystems.net/KIDAM",
+        "radio_name": "KOUW",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "ID"
+    },
+    {
+        "url": "https://ice41.securenetsystems.net/WBGZ",
+        "radio_name": "WBGZ",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IL"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/WCGO",
+        "radio_name": "WCGO",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IL"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/WJPF",
+        "radio_name": "WCIL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IL"
+    },
+    {
+        "url": "https://14923.live.streamtheworld.com/WCMYAMAAC_SC",
+        "radio_name": "WCMY",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IL"
+    },
+    {
+        "url": "https://26373.live.streamtheworld.com/WCPTAM_SC",
+        "radio_name": "WCPT",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IL"
+    },
+    {
+        "url": "http://cromwell-ice.streamguys1.com/WCRAAM",
+        "radio_name": "WCRA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IL"
+    },
+    {
+        "url": "https://15123.live.streamtheworld.com/WDANAMAAC.aac",
+        "radio_name": "WDAN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IL"
+    },
+    {
+        "url": "http://ice25.securenetsystems.net/WDWS",
+        "radio_name": "WDWS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IL"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/WGGH",
+        "radio_name": "WGGH",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IL"
+    },
+    {
+        "url": "https://streaming.brol.tech/jamendolounge",
+        "radio_name": "WGIL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IL"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/WJPF",
+        "radio_name": "WJPF",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IL"
+    },
+    {
+        "url": "https://wluw.streamguys1.com/stream.mp3",
+        "radio_name": "WLUW",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IL"
+    },
+    {
+        "url": "https://15693.live.streamtheworld.com/WMAYFMAAC_SC",
+        "radio_name": "WMAY",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IL"
+    },
+    {
+        "url": "https://24413.live.streamtheworld.com/WMBDAMAAC.aac",
+        "radio_name": "WMBD",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IL"
+    },
+    {
+        "url": "http://ice23.securenetsystems.net/WRPW",
+        "radio_name": "WRPW",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IL"
+    },
+    {
+        "url": "https://ice24.securenetsystems.net/WSDR",
+        "radio_name": "WSDR",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IL"
+    },
+    {
+        "url": "https://27063.live.streamtheworld.com/WSOYAMAAC_SC",
+        "radio_name": "WSOY",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IL"
+    },
+    {
+        "url": "https://ice41.securenetsystems.net/WTAD",
+        "radio_name": "WTAD",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IL"
+    },
+    {
+        "url": "https://ice7.securenetsystems.net/WTIM",
+        "radio_name": "WTIM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IL"
+    },
+    {
+        "url": "http://ic1.sslstream.com/wtrh-fm",
+        "radio_name": "WTRH",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IL"
+    },
+    {
+        "url": "http://cromwell-ice.streamguys1.com/WZUSFM",
+        "radio_name": "WZUS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IL"
+    },
+    {
+        "url": "http://streamer.hpcisp.com:8000/wbiw-hq.mp3",
+        "radio_name": "WBIW",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IN"
+    },
+    {
+        "url": "https://ice24.securenetsystems.net/WFDM",
+        "radio_name": "WFDM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IN"
+    },
+    {
+        "url": "https://ice64.securenetsystems.net/WGCL",
+        "radio_name": "WGCL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IN"
+    },
+    {
+        "url": "https://audio-edge-qse4n.yyz.g.radiomast.io/5d7b08e2-7447-4c59-97f1-bbbb83a5090e",
+        "radio_name": "WGL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IN"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/WIMS",
+        "radio_name": "WIMS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IN"
+    },
+    {
+        "url": "https://ice24.securenetsystems.net/WTRC",
+        "radio_name": "WTRC",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IN"
+    },
+    {
+        "url": "https://crystalout.surfernetwork.com:8001/KBIZ_MP3",
+        "radio_name": "KBIZ",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IA"
+    },
+    {
+        "url": "https://us2.maindigitalstream.com/ssl/KCPS",
+        "radio_name": "KCPS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IA"
+    },
+    {
+        "url": "https://us2.maindigitalstream.com/ssl/KFJB",
+        "radio_name": "KFJB",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IA"
+    },
+    {
+        "url": "https://ice5.securenetsystems.net/KMAAM",
+        "radio_name": "KMA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IA"
+    },
+    {
+        "url": "https://ice24.securenetsystems.net/KOKXAM",
+        "radio_name": "KOKX",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IA"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/KWBG",
+        "radio_name": "KWBG",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IA"
+    },
+    {
+        "url": "https://26273.live.streamtheworld.com/KXELAMAAC_SC",
+        "radio_name": "KXEL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "IA"
+    },
+    {
+        "url": "https://crystalout.surfernetwork.com:8001/KGGF-AM_MP3",
+        "radio_name": "KGGF",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "KS"
+    },
+    {
+        "url": "https://ice10.securenetsystems.net/KINA",
+        "radio_name": "KINA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "KS"
+    },
+    {
+        "url": "http://162.244.80.178:8008/stream",
+        "radio_name": "KIUL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "KS"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/KLWNAM",
+        "radio_name": "KLWN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "KS"
+    },
+    {
+        "url": "http://162.244.80.178:8016/;",
+        "radio_name": "KQAM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "KS"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/KSALAM",
+        "radio_name": "KSAL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "KS"
+    },
+    {
+        "url": "https://1.ice1.firststreaming.com:8000/kscb_am.aac",
+        "radio_name": "KSCB",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "KS"
+    },
+    {
+        "url": "https://ice10.securenetsystems.net/KVGBAM2",
+        "radio_name": "KVGB",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "KS"
+    },
+    {
+        "url": "https://ice9.securenetsystems.net/KWBW2",
+        "radio_name": "KWBW",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "KS"
+    },
+    {
+        "url": "https://ice42.securenetsystems.net/KWKN",
+        "radio_name": "KWKN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "KS"
+    },
+    {
+        "url": "https://dal-wku-stream-1.neighborhoodca.com/stream",
+        "radio_name": "WDCL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "KY"
+    },
+    {
+        "url": "https://ice66.securenetsystems.net/WDOC",
+        "radio_name": "WDOC",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "KY"
+    },
+    {
+        "url": "https://us2.maindigitalstream.com/ssl/WHIR",
+        "radio_name": "WHIR",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "KY"
+    },
+    {
+        "url": "https://ice8.securenetsystems.net/WKCT",
+        "radio_name": "WKCT",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "KY"
+    },
+    {
+        "url": "http://stream.wzxiradio.com:8000/wzxi-ch1.mp3",
+        "radio_name": "WZXI",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "KY"
+    },
+    {
+        "url": "https://ice9.securenetsystems.net/KFXZAM",
+        "radio_name": "KFXZ",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "LA"
+    },
+    {
+        "url": "https://live.amperwave.net/manifest/townsquare-kpelfmaac-hlsc3.m3u8?source=v7player&user-id=9a30f1a03cc8a93800dc9f8672db9b6c&gpp=DBABLA~BVQqAAAACWA.QA&t_partner_ids=eyJ0cml0b24tdWlkIjoiY29va2llOjg2NmM1M2I4LWYwZDUtNDQ1Yi1hYjQ2LTRkZTA1OGU2N2I3MCJ9",
+        "radio_name": "KPEL ",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "LA"
+    },
+    {
+        "url": "https://ice5.securenetsystems.net/KSYL",
+        "radio_name": "KSYL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "LA"
+    },
+    {
+        "url": "https://ice41.securenetsystems.net/KWLA",
+        "radio_name": "KWLA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "LA"
+    },
+    {
+        "url": "https://ice42.securenetsystems.net/WBOK",
+        "radio_name": "WBOK",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "LA"
+    },
+    {
+        "url": "https://18103.live.streamtheworld.com/RR_MAINAAC_SC",
+        "radio_name": "WEGP",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "ME"
+    },
+    {
+        "url": "http://ic1.mainstreamnetwork.com/wlob-am",
+        "radio_name": "WLOB",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "ME"
+    },
+    {
+        "url": "https://24453.live.streamtheworld.com/WMEAFM_SC",
+        "radio_name": "WMEA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "ME"
+    },
+    {
+        "url": "https://live.amperwave.net/manifest/blueberry-wvomfmaac-hlsc.m3u8?source=v7player&user-id=4d755ad7e5b65baa753363091e68094b&gpp=DBABLA~BVQqAAAACWA.QA&t_partner_ids=eyJhbi11aWQiOiI3MTUzNTA1NDY2MzgwNzY3NzYxIiwiYW1iLXVpZCI6IjM0ODczMTgzNzg2ODUyODcwMzEiLCJhdy11aWQiOiI0YTkxMjU1N2MzMjFjODk4YWMxYThjNDRjM2FlM2Q5OSIsImRibS11aWQiOiJDQUVTRU1QQ0oyLV9zVGpHLVZVcEVMLTFyS1kiLCJjdG8tdWlkIjoiMzljOWYyMzgtMTJkMS00OTYyLWI4NTAtNzMwYTU5OTRjM2M2LTY2MTQzNjI3LTU1NTMiLCJic3ctdWlkIjoiZDFhYTAyZWQtNTFmYS00NWQyLThlODEtMTc4ODAwYzdkNGE5IiwiZHluLXVpZCI6IjU5MDUzODE1MTA1OTY2MzY1MDAiLCJ0dGQtdWlkIjoiZTYzZDk3NzAtNTUwMS00MGM0LWJhNDctMTAwNzQ0Yjk4ODIyIiwiZXBzLXVpZCI6IkFBRUhOOHNWU3JzalZRQkVNV0FUQUFGRF93RUFBQUdNd2xIMEFBQUFBWkJhenktUiIsIm1tLXVpZCI6IjI3OTc2NjE0LTM2MmItNGIwMC1hZjg3LWFlMTY1MmQ2ZjFjNyIsInRyaXRvbi11aWQiOiJjb29raWU6MzVkMjg4ODgtZmNmYy00NWU5LWE4NjktZWQxYzdiNjFmYWZjIiwiYWR0LXVpZCI6ImN1aWRfMTQ1NGI5NDAtZjVkNS0xMWVlLWE5MzQtMTI1MzM1ZDUyMDQyIn0",
+        "radio_name": "WVOM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "ME"
+    },
+    {
+        "url": "https://18183.live.streamtheworld.com/WBALAMAAC_SC",
+        "radio_name": "WBAL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MD"
+    },
+    {
+        "url": "https://14153.live.streamtheworld.com/WCBMAM_SC",
+        "radio_name": "WCBM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MD"
+    },
+    {
+        "url": "https://26183.live.streamtheworld.com/WFMDAMAAC_SC",
+        "radio_name": "WFMD",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MD"
+    },
+    {
+        "url": "https://us2.maindigitalstream.com/ssl/WCRN",
+        "radio_name": "WCRN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MA"
+    },
+    {
+        "url": "https://ice66.securenetsystems.net/WGAW",
+        "radio_name": "WGAW",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MA"
+    },
+    {
+        "url": "https://us9.maindigitalstream.com/ssl/WSAR",
+        "radio_name": "WSAR",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MA"
+    },
+    {
+        "url": "http://backbonenetworks.streamguys.com/WBNW",
+        "radio_name": "WBNW",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MA"
+    },
+    {
+        "url": "https://26283.live.streamtheworld.com/WRCAAMAAC_SC",
+        "radio_name": "WNBP",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MA"
+    },
+    {
+        "url": "https://ic2.mainstreamnetwork.com/waam-am",
+        "radio_name": "WAAM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MI"
+    },
+    {
+        "url": "https://ice64.securenetsystems.net/WBRN",
+        "radio_name": "WBRN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MI"
+    },
+    {
+        "url": "http://wcxi.birach.com:9004/;",
+        "radio_name": "WCXI",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MI"
+    },
+    {
+        "url": "https://ice3.securenetsystems.net/WIOSM",
+        "radio_name": "WIOS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MI"
+    },
+    {
+        "url": "http://50.229.202.34:98/broadwave.mp3?src=1&rate=1&ref=",
+        "radio_name": "WKHM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MI"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/WKNW",
+        "radio_name": "WKNW",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MI"
+    },
+    {
+        "url": "http://107.182.234.197:7618/stream",
+        "radio_name": "WLDN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MI"
+    },
+    {
+        "url": "https://ice25.securenetsystems.net/WMIC",
+        "radio_name": "WMIC",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MI"
+    },
+    {
+        "url": "https://audio.pasty.net:8002/",
+        "radio_name": "WMPL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MI"
+    },
+    {
+        "url": "https://26413.live.streamtheworld.com/WPHMAMAAC_SC",
+        "radio_name": "WPHM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MI"
+    },
+    {
+        "url": "https://18163.live.streamtheworld.com/WSJMFMAAC.aac",
+        "radio_name": "WSJM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MI"
+    },
+    {
+        "url": "https://ice64.securenetsystems.net/WTCM",
+        "radio_name": "WTCM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MI"
+    },
+    {
+        "url": "https://22833.live.streamtheworld.com/KBRFAMAAC_SC",
+        "radio_name": "KBRF",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MN"
+    },
+    {
+        "url": "http://kkbjam.com:8001/kkbjam.mp3",
+        "radio_name": "KKBJ",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MN"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/KLTF",
+        "radio_name": "KLTF",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MN"
+    },
+    {
+        "url": "https://26113.live.streamtheworld.com/KNSIAAC_SC",
+        "radio_name": "KNSI",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MN"
+    },
+    {
+        "url": "https://ice6.securenetsystems.net/KROX",
+        "radio_name": "KROX",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MN"
+    },
+    {
+        "url": "http://stream.am950ktnf.com:8000/;",
+        "radio_name": "KTNF",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MN"
+    },
+    {
+        "url": "https://ice8.securenetsystems.net/KTRF",
+        "radio_name": "KTRF",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MN"
+    },
+    {
+        "url": "https://26373.live.streamtheworld.com/KXRAAMAAC_SC",
+        "radio_name": "KXRA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MN"
+    },
+    {
+        "url": "https://18103.live.streamtheworld.com/WZFGAMAAC_SC",
+        "radio_name": "WZFG",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MN"
+    },
+    {
+        "url": "https://ice41.securenetsystems.net/WMXI",
+        "radio_name": "WMXI",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MS"
+    },
+    {
+        "url": "http://66.245.184.90:8000/;",
+        "radio_name": "WVBG",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MS"
+    },
+    {
+        "url": "http://www.wyab.com:81/stream",
+        "radio_name": "WYAB",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MS"
+    },
+    {
+        "url": "https://ice24.securenetsystems.net/KFMO",
+        "radio_name": "KFMO",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MO"
+    },
+    {
+        "url": "https://ice7.securenetsystems.net/KADIAM",
+        "radio_name": "KICK",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MO"
+    },
+    {
+        "url": "https://ice8.securenetsystems.net/KRMS",
+        "radio_name": "KRMS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MO"
+    },
+    {
+        "url": "https://ice24.securenetsystems.net/KRTK",
+        "radio_name": "KRTK",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MO"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/KZIM",
+        "radio_name": "KSIM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MO"
+    },
+    {
+        "url": "http://ice24.securenetsystems.net/KSWMAM",
+        "radio_name": "KSWM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MO"
+    },
+    {
+        "url": "http://ice6.securenetsystems.net/KTRS",
+        "radio_name": "KTRS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MO"
+    },
+    {
+        "url": "https://ice7.securenetsystems.net/KTTR",
+        "radio_name": "KTTR",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MO"
+    },
+    {
+        "url": "http://144.253.82.142:8002/;",
+        "radio_name": "KTUI",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MO"
+    },
+    {
+        "url": "https://ice24.securenetsystems.net/KWOC",
+        "radio_name": "KWOC",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MO"
+    },
+    {
+        "url": "https://ice24.securenetsystems.net/KWPM",
+        "radio_name": "KWPM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MO"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/KZIM",
+        "radio_name": "KZIM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MO"
+    },
+    {
+        "url": "https://18853.live.streamtheworld.com/KZRGAMAAC.aac",
+        "radio_name": "KZRG",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MO"
+    },
+    {
+        "url": "https://18363.live.streamtheworld.com/KZYMAMAAC_SC",
+        "radio_name": "KZYM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MO"
+    },
+    {
+        "url": "https://mediaserver3.afa.net:8443/talk.mp3",
+        "radio_name": "KAFH",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MT"
+    },
+    {
+        "url": "http://ice23.securenetsystems.net/YNOP",
+        "radio_name": "KALS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MT"
+    },
+    {
+        "url": "https://14993.live.streamtheworld.com/KUFMFMAAC.aac",
+        "radio_name": "KAPC",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MT"
+    },
+    {
+        "url": "http://edge.mixlr.com/channel/veouw",
+        "radio_name": "KBGA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MT"
+    },
+    {
+        "url": "http://ypr-sc.streamguys.net/live",
+        "radio_name": "KBMC",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MT"
+    },
+    {
+        "url": "https://ice8.securenetsystems.net/KCAPONLINE",
+        "radio_name": "KCAP",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MT"
+    },
+    {
+        "url": "https://ice24.securenetsystems.net/KINX",
+        "radio_name": "KINX",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MT"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/KJJR",
+        "radio_name": "KJJR",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "MT"
+    },
+    {
+        "url": "https://18253.live.streamtheworld.com/KGFWAMAAC_SC",
+        "radio_name": "KGFW",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NE"
+    },
+    {
+        "url": "https://26183.live.streamtheworld.com/KLINAMAAC_SC",
+        "radio_name": "KLIN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NE"
+    },
+    {
+        "url": "https://ice9.securenetsystems.net/KODY",
+        "radio_name": "KODY",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NE"
+    },
+    {
+        "url": "https://14153.live.streamtheworld.com/KOILAMAAC_SC",
+        "radio_name": "KOIL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NE"
+    },
+    {
+        "url": "https://ais-sa1.streamon.fm/7660_48k.aac",
+        "radio_name": "KOLT",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NE"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/KRGIAM",
+        "radio_name": "KRGI",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NE"
+    },
+    {
+        "url": "https://18183.live.streamtheworld.com/WJAGAMAAC_SC",
+        "radio_name": "WJAG",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NE"
+    },
+    {
+        "url": "http://207.244.126.86:7200/stream",
+        "radio_name": "KAVB",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NV"
+    },
+    {
+        "url": "http://207.244.126.86:7200/stream",
+        "radio_name": "KELY",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NV"
+    },
+    {
+        "url": "https://ice7.securenetsystems.net/KKFT",
+        "radio_name": "KKFT",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NV"
+    },
+    {
+        "url": "https://18823.live.streamtheworld.com/KNPRFMAAC_SC",
+        "radio_name": "KLNR",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NV"
+    },
+    {
+        "url": "https://kunrstream.com:8443/live",
+        "radio_name": "KNCC",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NV"
+    },
+    {
+        "url": "https://radio.securenetsystems.net/v5/KSVLFM",
+        "radio_name": "KSVL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NV"
+    },
+    {
+        "url": "https://ice64.securenetsystems.net/WTSN",
+        "radio_name": "WEMJ",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NH"
+    },
+    {
+        "url": "http://natrix.sugarrivermedia.com:8000/wntk",
+        "radio_name": "WNTK",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NH"
+    },
+    {
+        "url": "https://ice64.securenetsystems.net/WTSN",
+        "radio_name": "WTSN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NH"
+    },
+    {
+        "url": "http://natrix.sugarrivermedia.com:8000/wuvr",
+        "radio_name": "WUVR",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NH"
+    },
+    {
+        "url": "http://live2.rcast.net:9238/;stream",
+        "radio_name": "WFJS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NJ"
+    },
+    {
+        "url": "https://stream2.wfmu.org/freeform-128k",
+        "radio_name": "WFMU",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NJ"
+    },
+    {
+        "url": "https://us2.maindigitalstream.com/ssl/WOND",
+        "radio_name": "WOND",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NJ"
+    },
+    {
+        "url": "http://ic1.christiannetcast.com/hope-fm",
+        "radio_name": "WVBV",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NJ"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/KEND",
+        "radio_name": "KEND",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NM"
+    },
+    {
+        "url": "https://audio-edge-qse4n.yyz.g.radiomast.io/2ea57a87-1155-4d57-b903-8420a8078476",
+        "radio_name": "KENN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NM"
+    },
+    {
+        "url": "https://ice10.securenetsystems.net/KINN",
+        "radio_name": "KINN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NM"
+    },
+    {
+        "url": "https://18723.live.streamtheworld.com/KKOBAMAAC_SC",
+        "radio_name": "KKOB",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NM"
+    },
+    {
+        "url": "https://ice42.securenetsystems.net/KOBE",
+        "radio_name": "KOBE",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NM"
+    },
+    {
+        "url": "https://ice41.securenetsystems.net/KRSYAM",
+        "radio_name": "KRSY",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NM"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/KSVP",
+        "radio_name": "KSVP",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NM"
+    },
+    {
+        "url": "https://ice41.securenetsystems.net/KXKS",
+        "radio_name": "KXKS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NM"
+    },
+    {
+        "url": "https://ice64.securenetsystems.net/WATN",
+        "radio_name": "WATN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NY"
+    },
+    {
+        "url": "https://ice3.securenetsystems.net/WAUB",
+        "radio_name": "WAUB",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NY"
+    },
+    {
+        "url": "http://stream.wbai.org:8000/wbai_128",
+        "radio_name": "WBAI",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NY"
+    },
+    {
+        "url": "https://live.amperwave.net/manifest/townsquare-wdosamaac-hlsc3.m3u8?source=v7player&user-id=483f5b84c3754430da5be85996571ecd&gpp=DBABLA~BVQqAAAACWA.QA",
+        "radio_name": "WDLA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NY"
+    },
+    {
+        "url": "https://ais-sa3.cdnstream1.com/2641_64.aac",
+        "radio_name": "WFME",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NY"
+    },
+    {
+        "url": "http://38.96.148.28:10746/stream",
+        "radio_name": "WGBB",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NY"
+    },
+    {
+        "url": "https://ic2.mainstreamnetwork.com/wgdj-am",
+        "radio_name": "WGDJ",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NY"
+    },
+    {
+        "url": "https://ice3.securenetsystems.net/WGVA",
+        "radio_name": "WGVA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NY"
+    },
+    {
+        "url": "https://crystalout.surfernetwork.com:8001/WJJF-FM_MP3",
+        "radio_name": "WJJF",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NY"
+    },
+    {
+        "url": "https://wkcr.streamguys1.com/live",
+        "radio_name": "WKCR",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NY"
+    },
+    {
+        "url": "http://us2.maindigitalstream.com:7082/stream",
+        "radio_name": "WLNL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NY"
+    },
+    {
+        "url": "https://hemnos.cdnstream.com/1426_64",
+        "radio_name": "WLVL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NY"
+    },
+    {
+        "url": "http://cinema.acs.its.nyu.edu:8000/wnyu128.mp3",
+        "radio_name": "WNYU",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NY"
+    },
+    {
+        "url": "http://streamwrhu.net:8500/wrhu.mp3",
+        "radio_name": "WRHU",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NY"
+    },
+    {
+        "url": "https://ic2.mainstreamnetwork.com/wtbq-fm",
+        "radio_name": "WTBQ",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NY"
+    },
+    {
+        "url": "https://ice6.securenetsystems.net/WUTQ",
+        "radio_name": "WUTQ",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NY"
+    },
+    {
+        "url": "https://19013.live.streamtheworld.com/WVCYFMAAC_SC",
+        "radio_name": "WVBN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NY"
+    },
+    {
+        "url": "https://15313.live.streamtheworld.com/WWSKFMAAC_SC",
+        "radio_name": "WWSK",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NY"
+    },
+    {
+        "url": "http://64.78.234.165:8000/WYSL?type=http&nocache=773711",
+        "radio_name": "WYSL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NY"
+    },
+    {
+        "url": "https://24083.live.streamtheworld.com/WBTAMAAC_SC",
+        "radio_name": "WBT",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NC"
+    },
+    {
+        "url": "http://216.119.148.50:8000/weeb990",
+        "radio_name": "WEEB",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NC"
+    },
+    {
+        "url": "https://sh.fl-us.audio-stream.com/proxy/sneisl01?mp=/stream",
+        "radio_name": "WGNC",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NC"
+    },
+    {
+        "url": "http://ice8.securenetsystems.net/WHKY",
+        "radio_name": "WHKY",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NC"
+    },
+    {
+        "url": "http://ctcstream.com:8002/stream",
+        "radio_name": "WNOS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NC"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/WOBXAM",
+        "radio_name": "WOBX",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NC"
+    },
+    {
+        "url": "https://cp8.shoutcheap.com:18141/stream",
+        "radio_name": "WRHT",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NC"
+    },
+    {
+        "url": "https://stream.falconinternet.net:9050/;mp3",
+        "radio_name": "WSJS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NC"
+    },
+    {
+        "url": "https://ice66.securenetsystems.net/WSMY",
+        "radio_name": "WSPC",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NC"
+    },
+    {
+        "url": "https://cp8.shoutcheap.com:18141/stream",
+        "radio_name": "WTIB",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "NC"
+    },
+    {
+        "url": "https://18193.live.streamtheworld.com/KNOXAMAAC_SC",
+        "radio_name": "KNOX",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "ND"
+    },
+    {
+        "url": "https://14843.live.streamtheworld.com/KTGOAMAAC_SC",
+        "radio_name": "KTGO",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "ND"
+    },
+    {
+        "url": "https://ice2.securenetsystems.net/WDAY",
+        "radio_name": "WDAY",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "ND"
+    },
+    {
+        "url": "https://18123.live.streamtheworld.com/WCBEFM_SC",
+        "radio_name": "WCBE",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OH"
+    },
+    {
+        "url": "https://26193.live.streamtheworld.com/WDBZAMAAC_SC",
+        "radio_name": "WDBZ",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OH"
+    },
+    {
+        "url": "https://ad-oom-cmg.streamguys1.com/day957/day957.aac",
+        "radio_name": "WHIO",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OH"
+    },
+    {
+        "url": "https://n04.radiojar.com/7wwewez83v8uv?rj-ttl=5&rj-tok=AAABj_D7BFsAPrHWsTrBaeG99Q",
+        "radio_name": "WHTX",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OH"
+    },
+    {
+        "url": "http://149.56.185.59:8000/;&type=mp3",
+        "radio_name": "WINT",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OH"
+    },
+    {
+        "url": "https://us2.maindigitalstream.com/ssl/WLIE",
+        "radio_name": "WLYV",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OH"
+    },
+    {
+        "url": "https://15123.live.streamtheworld.com/WNIRFMAAC.aac",
+        "radio_name": "WNIR",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OH"
+    },
+    {
+        "url": "https://n0b.radiojar.com/v6gfc8ak3v8uv?rj-ttl=5&rj-tok=AAABkMQXKicAEmVPnMwrD1JCXw",
+        "radio_name": "WYOH",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OH"
+    },
+    {
+        "url": "https://ice7.securenetsystems.net/KCLI",
+        "radio_name": "KCLI",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OK"
+    },
+    {
+        "url": "https://crystalout.surfernetwork.com:8001/KGWA_MP3",
+        "radio_name": "KGWA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OK"
+    },
+    {
+        "url": "http://162.244.80.178:8012/;",
+        "radio_name": "KGYN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OK"
+    },
+    {
+        "url": "https://ice8.securenetsystems.net/KZLS",
+        "radio_name": "KQOB",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OK"
+    },
+    {
+        "url": "https://ad-oom-cmg.streamguys1.com/tul1023/tul1023-tunein.aac",
+        "radio_name": "KRMG",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OK"
+    },
+    {
+        "url": "https://crystalout.surfernetwork.com:8001/KTLR_MP3",
+        "radio_name": "KTLR",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OK"
+    },
+    {
+        "url": "https://crystalout.surfernetwork.com:8001/KWON-AM_MP3",
+        "radio_name": "KWON",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OK"
+    },
+    {
+        "url": "https://das-edge14-live365-dal02.cdnstream.com/a51282",
+        "radio_name": "WBBZ",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OK"
+    },
+    {
+        "url": "https://ice8.securenetsystems.net/KAGOAM",
+        "radio_name": "KAGO",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OR"
+    },
+    {
+        "url": "https://us9.maindigitalstream.com/ssl/KBBR",
+        "radio_name": "KBBR",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OR"
+    },
+    {
+        "url": "https://ice10.securenetsystems.net/KBND",
+        "radio_name": "KBND",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OR"
+    },
+    {
+        "url": "https://crystalout.surfernetwork.com:8001/KBNP_MP3",
+        "radio_name": "KBNP",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OR"
+    },
+    {
+        "url": "https://ice10.securenetsystems.net/KFIR",
+        "radio_name": "KFIR",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OR"
+    },
+    {
+        "url": "https://ice10.securenetsystems.net/KFLS",
+        "radio_name": "KFLS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OR"
+    },
+    {
+        "url": "http://ice8.securenetsystems.net/KGAL",
+        "radio_name": "KGAL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OR"
+    },
+    {
+        "url": "https://us9.maindigitalstream.com/ssl/KMED",
+        "radio_name": "KMED",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OR"
+    },
+    {
+        "url": "https://us9.maindigitalstream.com/ssl/KPNW",
+        "radio_name": "KPNW",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OR"
+    },
+    {
+        "url": "http://67.227.183.17:9996/stream",
+        "radio_name": "KSLM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OR"
+    },
+    {
+        "url": "https://17843.live.streamtheworld.com/KUMAAMAAC_SC",
+        "radio_name": "KUMA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OR"
+    },
+    {
+        "url": "https://18303.live.streamtheworld.com/KVBLFM.mp3",
+        "radio_name": "KVBL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OR"
+    },
+    {
+        "url": "https://us9.maindigitalstream.com/ssl/KWRO",
+        "radio_name": "KWRO",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OR"
+    },
+    {
+        "url": "https://ice8.securenetsystems.net/KYKN",
+        "radio_name": "KYKN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "OR"
+    },
+    {
+        "url": "http://stream01.datazang.net:8002/stream/",
+        "radio_name": "WATS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "PA"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/WBVP",
+        "radio_name": "WBVP",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "PA"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/WCED",
+        "radio_name": "WCED",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "PA"
+    },
+    {
+        "url": "https://us2.maindigitalstream.com/ssl/WEEO",
+        "radio_name": "WEEO",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "PA"
+    },
+    {
+        "url": "https://das-edge09-live365-dal03.cdnstream.com/a50347",
+        "radio_name": "WEEU",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "PA"
+    },
+    {
+        "url": "http://71.185.249.90/broadwave.mp3",
+        "radio_name": "WFYL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "PA"
+    },
+    {
+        "url": "https://us2.maindigitalstream.com/ssl/WJFP2",
+        "radio_name": "WJFP",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "PA"
+    },
+    {
+        "url": "http://50.243.171.225:88/broadwave.mp3",
+        "radio_name": "WKHB",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "PA"
+    },
+    {
+        "url": "https://ice6.securenetsystems.net/WPSN",
+        "radio_name": "WPSN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "PA"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/WRSC",
+        "radio_name": "WRSC",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "PA"
+    },
+    {
+        "url": "https://ice24.securenetsystems.net/WRTA",
+        "radio_name": "WRTA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "PA"
+    },
+    {
+        "url": "https://ice6.securenetsystems.net/WTRW",
+        "radio_name": "WTRW",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "PA"
+    },
+    {
+        "url": "https://wurd.streamguys1.com/live",
+        "radio_name": "WURD",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "PA"
+    },
+    {
+        "url": "https://radio.bd.psu.edu:8501/wpse",
+        "radio_name": "WPSE",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "PA"
+    },
+    {
+        "url": "https://18183.live.streamtheworld.com/WPROAMAAC_SC",
+        "radio_name": "WEAN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "RI"
+    },
+    {
+        "url": "https://ripr-ice.streamguys1.com/ripr-aac",
+        "radio_name": "WNPE",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "RI"
+    },
+    {
+        "url": "https://1.ice1.firststreaming.com:8000/wnri_am.aac",
+        "radio_name": "WNRI",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "RI"
+    },
+    {
+        "url": "https://15233.live.streamtheworld.com/RR_MAINAAC.aac",
+        "radio_name": "WSJW",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "RI"
+    },
+    {
+        "url": "https://ice3.securenetsystems.net/WAIM",
+        "radio_name": "WAIM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "SC"
+    },
+    {
+        "url": "https://ice3.securenetsystems.net/WCRS",
+        "radio_name": "WCRS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "SC"
+    },
+    {
+        "url": "https://cb.streamguys1.com/wdxy.aac",
+        "radio_name": "WDXY",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "SC"
+    },
+    {
+        "url": "https://cb.streamguys1.com/wfrk.aac",
+        "radio_name": "WFRK ",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "SC"
+    },
+    {
+        "url": "https://us9.maindigitalstream.com/ssl/wqxl",
+        "radio_name": "WQXL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "SC"
+    },
+    {
+        "url": "https://ice7.securenetsystems.net/WRHI",
+        "radio_name": "WRHI",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "SC"
+    },
+    {
+        "url": "https://dbc.streamguys1.com/wrnn-fm.aac",
+        "radio_name": "WRNN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "SC"
+    },
+    {
+        "url": "https://ice64.securenetsystems.net/WYEZ",
+        "radio_name": "WTKN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "SC"
+    },
+    {
+        "url": "https://cb.streamguys1.com/wfrk.aac",
+        "radio_name": "WTQS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "SC"
+    },
+    {
+        "url": "https://nis.stream.publicradio.org/nis.aac",
+        "radio_name": "KAUR",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "SD"
+    },
+    {
+        "url": "https://14083.live.streamtheworld.com/KELOAMAAC_SC",
+        "radio_name": "KELQ",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "SD"
+    },
+    {
+        "url": "https://ais-sa1.streamon.fm/7772_96k.aac",
+        "radio_name": "KOTA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "SD"
+    },
+    {
+        "url": "https://ice24.securenetsystems.net/KWAM",
+        "radio_name": "KWAM",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "TN"
+    },
+    {
+        "url": "https://s5.radio.co/s8ead4734f/listen",
+        "radio_name": "WBFG",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "TN"
+    },
+    {
+        "url": "https://ice41.securenetsystems.net/WCMTAM",
+        "radio_name": "WCMT",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "TN"
+    },
+    {
+        "url": "https://crystalin.surfernetwork.com:8001/WENO-AM_MP3",
+        "radio_name": "WENO",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "TN"
+    },
+    {
+        "url": "http://3.86.40.46/bristolbroad-wfhgfmmp3-ibc2?session-id=eef227f13c73da7e5b5cbfbf1b1827ea",
+        "radio_name": "WFHG",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "TN"
+    },
+    {
+        "url": "https://ice2.securenetsystems.net/WGNS",
+        "radio_name": "WGNS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "TN"
+    },
+    {
+        "url": "https://ice42.securenetsystems.net/WHUBAM",
+        "radio_name": "WHUB",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "TN"
+    },
+    {
+        "url": "https://us2.maindigitalstream.com/ssl/WNWS",
+        "radio_name": "WNWS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "TN"
+    },
+    {
+        "url": "https://us2.maindigitalstream.com/ssl/WTJS",
+        "radio_name": "WTJS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "TN"
+    },
+    {
+        "url": "https://ice66.securenetsystems.net/WUCT",
+        "radio_name": "WUCT",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "TN"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/KBSTAM",
+        "radio_name": "KBST",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "TX"
+    },
+    {
+        "url": "https://ice5.securenetsystems.net/KCRSAM",
+        "radio_name": "KCRS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "TX"
+    },
+    {
+        "url": "https://streams.pacifica.org:9000/live_64",
+        "radio_name": "KFPT",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "TX"
+    },
+    {
+        "url": "https://live.amperwave.net/manifest/townsquare-kfyoamaac-hlsc3.m3u8?source=v7player&user-id=678e9f7aa97118abb208e72ea982f926&gpp=DBABLA~BVQqAAAACWA.QA&t_partner_ids=eyJ0cml0b24tdWlkIjoiY29va2llOmFiMGU0Y2ZjLTEyNGEtNDU2Zi04OTg3LTQzNWJjYTgyOWE5OCJ9",
+        "radio_name": "KFYO",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "TX"
+    },
+    {
+        "url": "https://ice41.securenetsystems.net/KKSA",
+        "radio_name": "KKSA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "TX"
+    },
+    {
+        "url": "https://us2.maindigitalstream.com/ssl/KLVT",
+        "radio_name": "KLVT",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "TX"
+    },
+    {
+        "url": "https://15233.live.streamtheworld.com/RR_MAINAAC.aac",
+        "radio_name": "KRDY",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "TX"
+    },
+    {
+        "url": "https://crystalout.surfernetwork.com:8001/KRFE-AM_MP3",
+        "radio_name": "KRFE",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "TX"
+    },
+    {
+        "url": "https://www.iheart.com/live/660-am-the-answer-6060/?autoplay=true",
+        "radio_name": "KSKY",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "TX"
+    },
+    {
+        "url": "https://ice42.securenetsystems.net/KTBBM",
+        "radio_name": "KTBB",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "TX"
+    },
+    {
+        "url": "https://ice9.securenetsystems.net/KWEL",
+        "radio_name": "KWEL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "TX"
+    },
+    {
+        "url": "https://ice8.securenetsystems.net/KXYL",
+        "radio_name": "KXYL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "TX"
+    },
+    {
+        "url": "https://ice26.securenetsystems.net/KZHN",
+        "radio_name": "KZHN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "TX"
+    },
+    {
+        "url": "https://ice42.securenetsystems.net/WTAWAM",
+        "radio_name": "WTAW",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "TX"
+    },
+    {
+        "url": "http://s3.voscast.com:7204/;",
+        "radio_name": "KBJA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "UT"
+    },
+    {
+        "url": "http://stream.radiojar.com/5sbf1ptsy2quv",
+        "radio_name": "KJJC",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "UT"
+    },
+    {
+        "url": "https://ice9.securenetsystems.net/KSVC",
+        "radio_name": "KMXD",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "UT"
+    },
+    {
+        "url": "https://www.ophanim.net:8444/s/9130",
+        "radio_name": "KOAL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "UT"
+    },
+    {
+        "url": "https://ice10.securenetsystems.net/KZNU",
+        "radio_name": "KSGO",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "UT"
+    },
+    {
+        "url": "https://ice9.securenetsystems.net/KSVC",
+        "radio_name": "KSVC",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "UT"
+    },
+    {
+        "url": "https://ice9.securenetsystems.net/KVNU",
+        "radio_name": "KVNU",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "UT"
+    },
+    {
+        "url": "http://vpr.streamguys.net/vpr96.mp3",
+        "radio_name": "WBTN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "VT"
+    },
+    {
+        "url": "http://peace.str3am.com:6350/live",
+        "radio_name": "WCKJ",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "VT"
+    },
+    {
+        "url": "http://war.str3am.com:7180/live",
+        "radio_name": "WJPL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "VT"
+    },
+    {
+        "url": "http://ais-sa1.streamon.fm/7013_64k.aac",
+        "radio_name": "WJSY",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "VT"
+    },
+    {
+        "url": "https://s47.myradiostream.com/:14958/listen.mp3?nocache=1691360589",
+        "radio_name": "WMNV",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "VT"
+    },
+    {
+        "url": "http://war.str3am.com:7180/live",
+        "radio_name": "WMTZ",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "VT"
+    },
+    {
+        "url": "https://ais-sa1.streamon.fm/7790_96k.aac",
+        "radio_name": "WVMT",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "VT"
+    },
+    {
+        "url": "https://26733.live.streamtheworld.com/WCHVAMAAC_SC",
+        "radio_name": "WCHV",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "VA"
+    },
+    {
+        "url": "https://crystalout.surfernetwork.com:8001/WFJX_MP3",
+        "radio_name": "WFJX",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "VA"
+    },
+    {
+        "url": "https://live.amperwave.net/manifest/centennialb-wfvaamaac-hlsc3.m3u8?source=v7player&user-id=4d755ad7e5b65baa753363091e68094b&gpp=DBABLA~BVQqAAAACWA.QA&t_partner_ids=eyJ0cml0b24tdWlkIjoiY29va2llOjM1ZDI4ODg4LWZjZmMtNDVlOS1hODY5LWVkMWM3YjYxZmFmYyJ9&a_partner_ids=4a912557c321c898ac1a8c44c3ae3d99",
+        "radio_name": "WFVA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "VA"
+    },
+    {
+        "url": "https://ice7.securenetsystems.net/WGMN",
+        "radio_name": "WGMN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "VA"
+    },
+    {
+        "url": "https://ice6.securenetsystems.net/WMNAFM",
+        "radio_name": "WIQO",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "VA"
+    },
+    {
+        "url": "https://us2.maindigitalstream.com/ssl/JFRS",
+        "radio_name": "WJFN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "VA"
+    },
+    {
+        "url": "https://us2.maindigitalstream.com/ssl/JFRS",
+        "radio_name": "WJFV",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "VA"
+    },
+    {
+        "url": "https://ice66.securenetsystems.net/WLNI",
+        "radio_name": "WLNI",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "VA"
+    },
+    {
+        "url": "https://ice6.securenetsystems.net/WMNAFM",
+        "radio_name": "WMNA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "VA"
+    },
+    {
+        "url": "https://18073.live.streamtheworld.com/WNISAMAAC_SC",
+        "radio_name": "WNIS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "VA"
+    },
+    {
+        "url": "https://19003.live.streamtheworld.com/WRADFMAAC_SC",
+        "radio_name": "WRAD",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "VA"
+    },
+    {
+        "url": "https://27053.live.streamtheworld.com/WWRCAMAAC_SC",
+        "radio_name": "WRCW",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "VA"
+    },
+    {
+        "url": "https://us9.maindigitalstream.com/ssl/KEDO",
+        "radio_name": "KEDO",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WA"
+    },
+    {
+        "url": "https://us9.maindigitalstream.com/ssl/KELA",
+        "radio_name": "KELA",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WA"
+    },
+    {
+        "url": "http://72.10.11.222:8813/broadwave.mp3?src=1&rate=1&ref=",
+        "radio_name": "KGDC",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WA"
+    },
+    {
+        "url": "https://crystalout.surfernetwork.com:8001/KITZ_MP3",
+        "radio_name": "KITZ",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WA"
+    },
+    {
+        "url": "https://27153.live.streamtheworld.com/KKNWAMAAC_SC",
+        "radio_name": "KKNW",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WA"
+    },
+    {
+        "url": "http://ice26.securenetsystems.net/KLCK",
+        "radio_name": "KLCK",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WA"
+    },
+    {
+        "url": "https://22963.live.streamtheworld.com/KNWNAMAAC_SC",
+        "radio_name": "KNWN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WA"
+    },
+    {
+        "url": "http://pacificaservice.org:8000/kodx",
+        "radio_name": "KODX",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WA"
+    },
+    {
+        "url": "https://crystalout.surfernetwork.com:8001/KONP_MP3",
+        "radio_name": "KONP",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WA"
+    },
+    {
+        "url": "http://54.159.58.244/chelanvalleymediagroup-koziammp3-ibc?session-id=f126ddeeef9fa3813e246be0073f68fc",
+        "radio_name": "KOZI",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WA"
+    },
+    {
+        "url": "https://13743.live.streamtheworld.com/KTELAMAAC.aac",
+        "radio_name": "KTEL",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WA"
+    },
+    {
+        "url": "https://18393.live.streamtheworld.com/KVIAMAAC_SC",
+        "radio_name": "KVI",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WA"
+    },
+    {
+        "url": "https://crystalout.surfernetwork.com:8001/KITZ_MP3",
+        "radio_name": "KGTK",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WA"
+    },
+    {
+        "url": "https://14933.live.streamtheworld.com/KXLYAMAAC_SC",
+        "radio_name": "KXLY",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WA"
+    },
+    {
+        "url": "https://ic1.mainstreamnetwork.com/ksbn-am",
+        "radio_name": "KSBN",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WA"
+    },
+    {
+        "url": "https://us2.maindigitalstream.com/ssl/WEIR",
+        "radio_name": "WEIR",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WV"
+    },
+    {
+        "url": "https://ice3.securenetsystems.net/WMOV",
+        "radio_name": "WMOV",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WV"
+    },
+    {
+        "url": "https://streaming.radio.co/sd2c75a914/listen",
+        "radio_name": "WRNR",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WV"
+    },
+    {
+        "url": "https://ice7.securenetsystems.net/WSCW",
+        "radio_name": "WSCW",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WV"
+    },
+    {
+        "url": "https://ice24.securenetsystems.net/WWNR",
+        "radio_name": "WWNR",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WV"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/KFIZ",
+        "radio_name": "KFIZ",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WI"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/WAUK",
+        "radio_name": "WAUK",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WI"
+    },
+    {
+        "url": "https://ice24.securenetsystems.net/WCLO",
+        "radio_name": "WCLO",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WI"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/WFHR",
+        "radio_name": "WFHR",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WI"
+    },
+    {
+        "url": "https://ice23.securenetsystems.net/WISS",
+        "radio_name": "WISS",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WI"
+    },
+    {
+        "url": "https://ice25.securenetsystems.net/WLCX",
+        "radio_name": "WLCX",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WI"
+    },
+    {
+        "url": "https://ice24.securenetsystems.net/WMDX",
+        "radio_name": "WMDX",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WI"
+    },
+    {
+        "url": "https://18863.live.streamtheworld.com/WSAUAMFMAAC_SC",
+        "radio_name": "WSAU",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WI"
+    },
+    {
+        "url": "https://15113.live.streamtheworld.com/WTAQAMAAC_SC",
+        "radio_name": "WTAQ",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WI"
+    },
+    {
+        "url": "https://ice24.securenetsystems.net/WXCO",
+        "radio_name": "WXCO",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WI"
+    },
+    {
+        "url": "https://wyoming-public-ice.streamguys1.com/WPR128MP3",
+        "radio_name": "KBUW",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WY"
+    },
+    {
+        "url": "https://ice24.securenetsystems.net/KROE",
+        "radio_name": "KROE",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WY"
+    },
+    {
+        "url": "https://ice6.securenetsystems.net/KVOW",
+        "radio_name": "KVOW",
+        "time": [
+            [
+                "12:00",
+                "3:00"
+            ],
+            [
+                "5:00",
+                "11:59"
+            ]
+        ],
+        "state": "WY"
+    }
+]

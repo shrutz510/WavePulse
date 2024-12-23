@@ -1,0 +1,30 @@
+WavePulse
+Copyright 2024 New York University
+Author(s): Govind Mittal et al.
+Author(s): Chinmay Hegde <chinmay.h@nyu.edu>
+
+This software includes technology covered under a pending U.S. provisional patent application.
+
+Patent Information:
+-------------------
+Patent Status: U.S. Provisional Patent Application (Pending)
+Filing Date: 2024
+Assignee: New York University
+
+Third-Party Components:
+----------------------
+This software includes the following third-party components:
+- WhisperX (Apache 2.0 License)
+- Google Gemini API (Commercial License)
+- Hugging Face Transformers (Apache 2.0 License)
+- PyTorch (BSD License)
+
+Additional Notices:
+------------------
+1. Commercial use of this software may require additional licensing arrangements.
+2. The real-time radio content analysis system and methods are subject to patent protection.
+3. This software is part of ongoing research at New York University.
+
+For licensing inquiries and commercial use, please contact:
+Technology Transfer Office
+New York University
