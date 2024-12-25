@@ -187,10 +187,13 @@ This project is licensed under the Apache 2.0 License - see [LICENSE](LICENSE) a
 ## Citation
 If you use WavePulse or any of its components, please cite:
 ```bibtex
-@inproceedings{wavepulse2024,
-  title={WavePulse: Real-time Content Analytics of Radio Livestreams},
-  author={},
-  booktitle={arXiv},
-  year={2024}
+@article{mittal2024wavepulse,
+    title={WavePulse: Real-time Content Analytics of Radio Livestreams},
+    author={Mittal, Govind and Gupta, Sarthak and Wagle, Shruti and Chopra, Chirag and DeMattee, Anthony J and Memon, Nasir and Ahamad, Mustaque and Hegde, Chinmay},
+    journal={arXiv preprint arXiv:2412.17998},
+    year={2024},
+    archivePrefix={arXiv},
+    primaryClass={cs.IR},
+    eprint={2412.17998}
 }
 ```
